@@ -1,0 +1,79 @@
+.logo1{
+    width: 332px;
+    height: 115px;
+    border-width: 3px;
+    border-color: blueviolet;
+    border-style: solid;
+}
+
+.huella-morada{
+    width: 88px;
+    height: 69px;
+    border-width: 3px;
+    border-color: blueviolet;
+    border-style: solid;
+}
+
+.huella-azul{
+    width: 77px;
+    height: 84px;
+    border-width: 3px;
+    border-color: rgb(17, 191, 235);
+    border-style: solid;
+}
+
+.golden{
+    width: 280px;
+     height: 280px;
+     border-radius: 200px;
+}
+   
+.fondo{
+    width: 950px;
+    height: 420px;
+}
+
+.paciente{
+    width: 100px;
+    height: 100px;
+    border-width: 3px;
+    border-color: gray;
+    border-style: solid;
+}
+
+.veterinario{
+    width: 100px;
+    height: 100px; 
+    border-width: 3px;
+    border-color: peachpuff;
+    border-style: solid;
+
+}
+
+.vacunacion{
+    width: 100px;
+    height: 100px;  
+    border-width: 3px;
+    border-color: gainsboro;
+    border-style: solid;
+}
+
+.tarjeta{
+    width: 60px; 
+    height: 67px;
+}
+
+.barra-inicial{
+    background-color: rgb(99, 7, 161);
+}
+#barra-principal{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: azure;
+    padding: 50px 30px 15px 20px;
+    margin: 30px 10px 30px 10px;
+}
+
+.footer{
+    
+}
